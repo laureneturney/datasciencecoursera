@@ -2,6 +2,7 @@
 # Python Exam
 # Problem 1
 #I HAVE MADE THIS CHANGE
+#Make a second change
 salary = int(input("Enter the beginning salary: "))
 #put the original input as starting salary
 starting_salary = salary
