@@ -1,7 +1,7 @@
 # Lauren Turney
 # Python Exam
 # Problem 1
-
+#I HAVE MADE THIS CHANGE
 salary = int(input("Enter the beginning salary: "))
 #put the original input as starting salary
 starting_salary = salary
@@ -22,6 +22,7 @@ new_salary = round(salary,2)
 
 print("${:,.2f}".format(new_salary))
 print(f"Change: {percent_change}%")
+
 
 
 
